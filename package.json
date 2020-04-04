@@ -1,0 +1,24 @@
+{
+  "name": "codewars-katas",
+  "version": "1.0.0",
+  "description": "A repo of solutions to various katas (programming challenges) from CodeWars, organized by difficulty level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisheinrich/katas.git"
+  },
+  "author": "Kris Heinrich <krisheinrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisheinrich/katas/issues"
+  },
+  "homepage": "https://github.com/krisheinrich/katas#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
