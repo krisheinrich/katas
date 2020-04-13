@@ -12,7 +12,7 @@ I'll attempt to note the time complexity of all the algorithm(s) used alongside 
 
 ### 5-kyu
 
-- [Largest Prodct in a Serie](https://www.codewars.com/kata/529872bdd0f550a06b00026e)
+- [Largest Product in a Series](https://www.codewars.com/kata/529872bdd0f550a06b00026e)
 
 ### 3-kyu
 
