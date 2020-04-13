@@ -1,6 +1,6 @@
 const { assert } = require('chai');
 
-const theLift = require('./solution1');
+const theLift = require('./solution2');
 
 describe('theLift', function () {
   it('should pass test case 1', function () {
