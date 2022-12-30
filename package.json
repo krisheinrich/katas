@@ -19,6 +19,6 @@
   "homepage": "https://github.com/krisheinrich/katas#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
